@@ -3,6 +3,13 @@ body, html{
     padding: 0;
     height: 200px;
     }
+    header{
+      padding: 50px;
+      margin: 20px;
+      background-color: rgb(141, 89, 12);
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 24px;
+      }
     ul {
       list-style-type: none;
       margin: 50px;
@@ -60,13 +67,7 @@ body, html{
       }
       
       
-      header{
-      padding: 50px;
-      margin: 20px;
-      background-color: rgb(141, 89, 12);
-      font-family: Arial, Helvetica, sans-serif;
-      font-size: 24px;
-      }
+      
       
       footer {
         padding: 50px;
