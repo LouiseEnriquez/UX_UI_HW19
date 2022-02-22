@@ -58,10 +58,20 @@ body, html{
       font-size: 24px;
       }
       
-      div{
+      .CaseStudyCard{
       display: flex;
       flex-direction: row-reverse;
       }
+
+    .CSbutton{
+    background-color: blanchedalmond; 
+    margin: 50px; 
+    padding: 20px;
+    
+    }
+     button a{
+    color: black;
+     } 
       
       #myBtn {
         display: none; /* Hidden by default */
