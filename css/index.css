@@ -4,6 +4,9 @@ body, html{
     height: 200px;
     background-color: beige;
     }
+    html {
+      scroll-behavior: smooth;
+    }
     header{
         padding: 50px;
         margin: 20px;
